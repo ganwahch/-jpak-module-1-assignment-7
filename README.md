@@ -7,3 +7,6 @@ https://olx-landing-page-a7.web.app
 
 ## [Github Page Link](https://ganwahch.github.io/-jpak-module-1-assignment-7/)
 https://ganwahch.github.io/-jpak-module-1-assignment-7/
+
+## [See My Previous Work](https://github.com/ganwahch/)
+https://github.com/ganwahch/
