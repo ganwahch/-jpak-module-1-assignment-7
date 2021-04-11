@@ -140,7 +140,7 @@ a.link:hover {
 }
 
 .bg-banner {
-    background: url('../IMG/hero_bg_pk.jpg');
+    background: url('../img/hero_bg_pk.jpg');
     background-position: center;
     background-size: cover;
     width: 100%;
@@ -149,7 +149,7 @@ a.link:hover {
 }
 
 .ad-bg {
-    background: url('../IMG/3317826598212894679.jfif');
+    background: url('../img/3317826598212894679.jfif');
     width: 100%;
     height: 25vh;
     background-position: center;
@@ -264,7 +264,7 @@ a.link:hover {
 }
 
 .second-ad-bg {
-    background: url('../IMG/Digital-Media-Ad.png');
+    background: url('../img/Digital-Media-Ad.png');
     width: 100%;
     height: 60vh;
     background-position: center;
@@ -273,7 +273,7 @@ a.link:hover {
 }
 
 .footer-banner-bg {
-    background: url('../IMG/footer-banner.png');
+    background: url('../img/footer-banner.png');
     background-position: center;
     background-size: cover;
     width: 100%;
